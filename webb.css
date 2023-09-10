@@ -1,0 +1,135 @@
+* {
+    box-sizing: border-box;
+    color: #777;
+}
+.MAIN-HEADER {
+   background-image: url("");
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-top: 0PX;
+   
+}
+.nav ul {
+    margin-top: o;
+    text-align: center;
+    padding-top: 10;
+    font-family: "Permanent Marker";
+    
+}
+.nav li {
+    display: inline;
+}
+.nav a {
+    display: inline-block;
+     padding: .5em;
+     color: white;
+     text-decoration: none;
+
+}
+.main-nav li {
+    padding: 0 2%;
+}
+.nav a:hover {
+    background-color: rgba(99, 95, 95, 0.3);
+}
+html, BODY {
+    padding: 0;
+    margin: 0;
+}
+
+
+.H11 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 100;
+    font-size: 3.5EM;
+    font-family: "Permanent Marker";
+}
+.H22 { 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    color: LIGHT grey;
+    font-family: "Kanit";
+}
+.VAN LI {
+    display: inline;
+}
+.VAN UL {
+    margin-top: 0;
+    text-align: center;
+    padding-top: 50;
+    font-family: "Kanit";
+    
+   
+}
+.MAN-VAN LI {
+    padding: 0 1%;
+    font-size: 1.8EM;
+    border-radius: 10%;
+    
+}
+.VAN A {
+    display: inline-block;
+    padding: .5em;
+    color: white;
+    text-decoration: none;
+}
+
+.H33 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 200;
+    font-size: 4EM;
+    font-family: "Permanent Marker";
+}
+.HEAD {
+    background-color: rgb(11, 138, 138);
+}
+.JONIC {
+    color: linear-gradient(purple, red) ;
+    font-size: 2EM;
+    font-family: "Shadows Into Light";
+    text-align: left;
+}
+body {
+    box-sizing: border-box;
+    background: linear-gradient(skyblue, lightgreen);
+    background-blend-mode: multiply;
+}
+.footer-naF li {
+    padding: 0 .5em;
+}
+.main-footer-container ul {
+    flex-grow: 1;
+    text-align: end;
+}
+.main-footer {
+    text-align: center;
+    background-color: rgb(48, 48, 48);
+    color: white;
+    padding: .25em 10;
+}
+.LEDIGA {
+    background-color: rgb(3, 83, 109);
+    border: 5PX;
+    width: 310PX;
+    height: 60PX;
+    font-size: 20PX;
+    border-radius: 5%
+}
+.JAG {
+    background-color:BLACK ;
+    border: 5PX;
+    width: 310PX;
+    height: 60PX;
+    font-size: 20PX;
+    border-radius: 5%
+}
+.SÖKER {
+    background-color: RED;
+    border: 5PX;
+    width: 310PX;
+    height: 60PX;
+    font-size: 20PX;
+    border-radius: 5%
+}
